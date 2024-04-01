@@ -1,11 +1,22 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome! I am a PhD student at the University of Technology Sydney, deeply engaged in the intersection of AI and healthcare. With a foundational Bachelor's degree from the University of Adelaide and a Master's degree from the University of Tasmania, my academic journey has been a progressive dive into the realms of health informatics, machine learning, and medical image analysis.
+
+My project is on AI-enabled medical technologies: From diagnostics to therapeutics. This endeavour aims to leverage artificial intelligence to not only enhance diagnostic accuracy but also to streamline therapeutic interventions. By meticulously analysing medical images and data, I strive to contribute to the burgeoning field of intelligent healthcare solutions that promise greater precision and personalisation in patient care.
+
+In a world where healthcare is becoming increasingly intertwined with technology, my research focuses on harnessing the power of machine learning to transform vast amounts of health data into meaningful insights. By analyzing medical images through advanced computational techniques, I aim to contribute to the development of innovative diagnostic tools that can significantly enhance patient outcomes.
+
+Recent News
+======
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
