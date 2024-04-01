@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-AU"
-title                    : "Zhaoyuan He / Home Page"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Zhaoyuan He"
 description              : &description "PhD student at University of Technology Sydney"
