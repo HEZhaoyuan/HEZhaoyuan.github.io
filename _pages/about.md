@@ -6,8 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
+
 ======
+About Me
+------
 
 Welcome! I am a PhD student at the University of Technology Sydney, deeply engaged in the intersection of AI and healthcare. I hold a Bachelor’s degree from the University of Adelaide and advanced my studies with a Master's from the University of Tasmania. My research interest lies in the dynamic fields of health informatics, machine learning, and medical image analysis.
 
@@ -16,7 +18,7 @@ My project is on AI-enabled medical technologies: From diagnostics to therapeuti
 In a world where healthcare is becoming increasingly intertwined with technology, my research focuses on harnessing the power of machine learning to transform vast amounts of health data into meaningful insights. By analyzing medical images through advanced computational techniques, I aim to contribute to the development of innovative diagnostic tools that can significantly enhance patient outcomes.
 
 Recent News
-======
+------
 
 
 
