@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Zhaoyuan He"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+About Me
+======
 
 Welcome! I am a PhD student at the University of Technology Sydney, deeply engaged in the intersection of AI and healthcare. I hold a Bachelor’s degree from the University of Adelaide and advanced my studies with a Master's from the University of Tasmania. My research interest lies in the dynamic fields of health informatics, machine learning, and medical image analysis.
 
